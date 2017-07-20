@@ -1,5 +1,5 @@
 {
-  "name": "clipper-lib",
+  "name": "@doodle3d/clipper-lib",
   "version": "6.2.2",
   "description": "Boolean operations and offsetting library in Javascript",
   "files": [
